@@ -6,7 +6,7 @@
 #
 Name     : xf86-video-vesa
 Version  : 2.3.4
-Release  : 20
+Release  : 21
 URL      : http://xorg.freedesktop.org/releases/individual/driver/xf86-video-vesa-2.3.4.tar.gz
 Source0  : http://xorg.freedesktop.org/releases/individual/driver/xf86-video-vesa-2.3.4.tar.gz
 Source99 : http://xorg.freedesktop.org/releases/individual/driver/xf86-video-vesa-2.3.4.tar.gz.sig
