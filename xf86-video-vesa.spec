@@ -6,7 +6,7 @@
 #
 Name     : xf86-video-vesa
 Version  : 2.6.0
-Release  : 534
+Release  : 535
 URL      : https://www.x.org/releases/individual/driver/xf86-video-vesa-2.6.0.tar.gz
 Source0  : https://www.x.org/releases/individual/driver/xf86-video-vesa-2.6.0.tar.gz
 Source1  : https://www.x.org/releases/individual/driver/xf86-video-vesa-2.6.0.tar.gz.sig
